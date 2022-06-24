@@ -2,11 +2,28 @@
 body{
   background-color: aqua;
 }
-.alert-text {
-    color: red;
-  }
 
-.check{
+h2{
+  color:black;
+  font-size: x-large;
+}
+
+ul{
+  color:gold;
+  font-size: medium;
+  font-weight: bold;
+}
+a{
+  color:red
+  
+}
+
+
+/* .alert-text {
+    color: red;
+  } */
+
+/* .check{
     color: green;
   }
 #chicken{
@@ -21,16 +38,13 @@ body{
 
 .read {
   /* several unique declarations */
-}
+/* } */
 
-.unread {
+/* .unread {
   /* several unique declarations */
-}
+/* } */
 
-.subsection {
+/* .subsection {
   color: green;
-}
+} */ 
 
-/* .subsection#preview {
-  color: blue;
-} */

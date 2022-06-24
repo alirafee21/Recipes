@@ -1,0 +1,13 @@
+img{
+    height: auto;
+    width: 500px;
+}
+
+.class.second-class {
+    font-size: 10px;
+  }
+  
+  /* rule 2 */
+.class .second-class {
+    font-size: 100px;
+  }
