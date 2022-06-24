@@ -1,0 +1,36 @@
+/* style.css */
+body{
+  background-color: aqua;
+}
+.alert-text {
+    color: red;
+  }
+
+.check{
+    color: green;
+  }
+#chicken{
+    color: magenta;
+}
+
+.read,
+.unread {
+  color: white;
+  background-color: black;
+}
+
+.read {
+  /* several unique declarations */
+}
+
+.unread {
+  /* several unique declarations */
+}
+
+.subsection {
+  color: green;
+}
+
+/* .subsection#preview {
+  color: blue;
+} */
